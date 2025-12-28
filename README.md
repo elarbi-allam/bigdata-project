@@ -321,7 +321,7 @@ docker exec -it kafka kafka-topics --delete --topic iot-temperature --bootstrap-
 
 **ELARBI ALLAM**  
 Étudiant en Big Data  
-ENSA - 2024/2025
+ENSA - 2025/2026
 
 ---
 
