@@ -15,4 +15,4 @@
 - 🔥 > 40°C : 310
 - ❄️ < 20°C : 368
 
-**Projet Big Data - ENSA 2024/2025**
+**Projet Big Data - ENSA 2025/2026**
